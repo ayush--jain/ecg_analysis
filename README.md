@@ -8,8 +8,8 @@ Identifies the V-beats in an ECG graph
 
 
 ### PROBLEM STATEMENT
-![Training data description](/train.PNG)
-![testing data description](/test.PNG)
+![Training data description](train.png)
+![testing data description](test.png)
 
 
 
